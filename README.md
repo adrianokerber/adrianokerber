@@ -3,9 +3,10 @@
 - 👨‍💻🎮 I'm interested in DDD, Vertical Slice Architecture, Clean Code, Clean Architecture, design/code patterns, programming languages as Python, Rust, Elixir, Go, C#... and any interesting langs and paradigms.
 - 🌱 I’m always learning and my goal is to became an expert-level developer (AKA: FullCycle).
 - 💞️ I’m looking to collaborate on .NET, Python, Go and any other nice projects.
-- 🥋 I'm also a purple belt jiu-jitsu practitioner! 🤎
+- 🥋 I'm also a purple belt Brazilian jiu-jitsu practitioner! 🤎
+- 🥊 I'm also a Muay Thai practitioner!
 >   🟫🟫🟫🟫🟫⬛⬛🟫 BJJ Brown Belt
-#Dev #Jiujitsu #Games #DevOps
+#Dev #Jiujitsu #Games #DevOps #MuayThai
 
 <!---
 adrianokerber/adrianokerber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
